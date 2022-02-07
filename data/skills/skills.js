@@ -17,7 +17,7 @@ export default [
     {
 		skillName: "AWS(EC2, S3), Heroku, Netlify",
 		color: "3",
-	    percentage: "30"
+	    percentage: "10"
 	},
     {
 		skillName: "HTML, Bootstrap, SCSS",
